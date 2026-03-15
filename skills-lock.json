@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "ios-architect": {
+      "source": "/Users/matiastripode/Dev/ai_native/ios-agent-skills",
+      "sourceType": "local",
+      "computedHash": "a3a3c75e5f09f8cb566c46810e0b6e926c26da9fcb9d288680187f99088f2a58"
+    },
+    "ios-ci-cd": {
+      "source": "/Users/matiastripode/Dev/ai_native/ios-agent-skills",
+      "sourceType": "local",
+      "computedHash": "0d56b43d87facc36f41ecc428d64291635995dc9a40f6ab458530ba1881e8130"
+    },
+    "ios-code-reviewer": {
+      "source": "/Users/matiastripode/Dev/ai_native/ios-agent-skills",
+      "sourceType": "local",
+      "computedHash": "9c8ca0ec1783ad494516bbd87b71bc20cfbd4b965e669d3bc2c06011304cc56c"
+    },
+    "ios-security": {
+      "source": "/Users/matiastripode/Dev/ai_native/ios-agent-skills",
+      "sourceType": "local",
+      "computedHash": "34d1840fd6f9671fae3c0f870723962e33d0ee0bfc52d5cc47a7a40bdfea4ef3"
+    }
+  }
+}
